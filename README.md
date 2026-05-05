@@ -24,4 +24,5 @@ I have hands-on experience with Python and SQL for data processing, analysis, an
 
 ## Connect With Me
 
-[LinkedIn](#) • [Email](#) • [Portfolio](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bennet-menezes)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:bennetmenezes07@email.com)
